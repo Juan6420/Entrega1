@@ -1,0 +1,14 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Primera entrega node.js",
+  "main": "inscripcion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan David Cadavid Quintero jdcadavidq@unal.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
